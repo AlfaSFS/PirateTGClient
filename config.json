@@ -1,7 +1,7 @@
 {
   "general":{
     "useHelpPanel":true,
-    "useCreditPanel":true,
+    "useCreditPanel":false,
     "useBackgroundMusic":true,
     "backgroundVolume":0.45
   },
