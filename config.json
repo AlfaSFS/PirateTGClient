@@ -8,11 +8,11 @@
   "strings":{
     "APP_TITLE":"3D Pirate Run",
     "APP_INFO":"Hyper Casual 3D Game",
-    "NEW_GAME":"Play",
+    "NEW_GAME":"NEW GAME",
     "HELP":"HELP",
     "HELP_TEXT":"Help text",
-    "CREDIT":null,
-    "CREDIT_TEXT":null
+    "CREDIT":"CREDITS",
+    "CREDIT_TEXT":"Music and sound effects from opengameart.org"
   },
   "data":{
     "level":[
