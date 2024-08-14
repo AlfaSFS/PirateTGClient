@@ -11,8 +11,8 @@
     "NEW_GAME":"Play",
     "HELP":"HELP",
     "HELP_TEXT":"Help text",
-    "":"",
-    "CREDIT_TEXT":"Music and sound effects from opengameart.org"
+    "CREDIT":null,
+    "CREDIT_TEXT":null
   },
   "data":{
     "level":[
